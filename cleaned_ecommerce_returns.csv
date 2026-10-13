@@ -1,0 +1,101 @@
+order_id,product_id,customer_id,quantity,price,discount,category,brand,size,seller,region,order_history,promised_days,delivered_days,courier,returned,reason,delivery_delay,order_value
+1001,7,112,3,462,10,Electronics,Brand7,M,Seller C,North,4,2,5,Courier A,0,Unknown,3,1386
+1002,4,102,2,1987,5,Beauty,Brand4,M,Seller A,West,8,2,6,Courier B,0,Wrong Size,4,3974
+1003,8,101,4,2391,5,Home,Brand8,XL,Seller B,West,17,5,5,Courier B,1,Wrong Size,0,9564
+1004,5,116,4,2593,10,Fashion,Brand5,S,Seller A,North,9,2,5,Courier A,0,Wrong Size,3,10372
+1005,7,123,4,823,5,Electronics,Brand7,M,Seller C,West,17,6,4,Courier A,0,Late Delivery,-2,3292
+1006,10,123,1,1216,5,Fashion,Brand10,M,Seller C,West,17,4,3,Courier A,1,Late Delivery,-1,1216
+1007,3,130,4,1080,5,Home,Brand3,M,Seller B,East,9,4,3,Courier B,1,Wrong Size,-1,4320
+1008,7,124,1,2249,0,Electronics,Brand7,M,Seller C,East,7,2,4,Courier B,0,Unknown,2,2249
+1009,8,105,2,1527,0,Home,Brand8,XL,Seller B,East,19,5,9,Courier B,0,Not as Expected,4,3054
+1010,5,103,1,2501,0,Fashion,Brand5,S,Seller A,West,10,5,2,Courier B,1,Not as Expected,-3,2501
+1011,4,112,2,652,10,Beauty,Brand4,M,Seller A,North,4,6,9,Courier B,1,Damaged,3,1304
+1012,8,108,4,1383,30,Home,Brand8,XL,Seller B,North,4,2,1,Courier B,0,Unknown,-1,5532
+1013,8,122,4,2256,5,Home,Brand8,XL,Seller B,North,18,4,1,Courier B,0,Late Delivery,-3,9024
+1014,3,127,2,1882,5,Home,Brand3,M,Seller B,North,17,5,5,Courier B,0,Wrong Size,0,3764
+1015,6,103,3,2455,10,Fashion,Brand6,XL,Seller A,West,10,2,6,Courier B,0,Damaged,4,7365
+1016,5,101,2,1354,5,Fashion,Brand5,S,Seller A,West,17,5,6,Courier A,0,Not as Expected,1,2708
+1017,2,103,3,603,0,Electronics,Brand2,M,Seller C,West,10,5,3,Courier A,0,Late Delivery,-2,1809
+1018,8,105,1,2399,30,Home,Brand8,XL,Seller B,East,19,4,7,Courier A,0,Late Delivery,3,2399
+1019,6,115,1,2301,20,Fashion,Brand6,XL,Seller A,North,5,3,9,Courier A,1,Wrong Size,6,2301
+1020,2,114,1,1896,5,Electronics,Brand2,M,Seller C,East,10,6,8,Courier B,0,Not as Expected,2,1896
+1021,5,103,4,827,0,Fashion,Brand5,S,Seller A,West,10,6,6,Courier B,0,Unknown,0,3308
+1022,1,101,1,786,20,Fashion,Brand1,L,Seller B,West,17,4,8,Courier A,1,Late Delivery,4,786
+1023,10,105,3,1848,30,Fashion,Brand10,M,Seller C,East,19,5,5,Courier B,1,Wrong Size,0,5544
+1024,6,126,1,1643,20,Fashion,Brand6,XL,Seller A,South,12,2,8,Courier A,0,Unknown,6,1643
+1025,9,123,2,1645,0,Beauty,Brand9,L,Seller A,West,17,5,4,Courier B,0,Not as Expected,-1,3290
+1026,1,114,2,303,20,Fashion,Brand1,L,Seller B,East,10,4,8,Courier A,0,Late Delivery,4,606
+1027,10,107,4,453,10,Fashion,Brand10,M,Seller C,North,7,6,2,Courier B,0,Unknown,-4,1812
+1028,3,127,2,2757,20,Home,Brand3,M,Seller B,North,17,5,5,Courier B,0,Unknown,0,5514
+1029,7,109,3,1696,5,Electronics,Brand7,M,Seller C,North,18,6,9,Courier A,0,Unknown,3,5088
+1030,4,115,1,298,5,Beauty,Brand4,M,Seller A,North,5,2,4,Courier B,0,Late Delivery,2,298
+1031,9,115,4,2400,10,Beauty,Brand9,L,Seller A,North,5,6,6,Courier A,0,Late Delivery,0,9600
+1032,3,126,1,2084,0,Home,Brand3,M,Seller B,South,12,6,1,Courier A,0,Damaged,-5,2084
+1033,5,110,1,2119,5,Fashion,Brand5,S,Seller A,East,13,3,9,Courier A,0,Not as Expected,6,2119
+1034,3,128,3,1077,30,Home,Brand3,M,Seller B,East,13,3,1,Courier A,0,Wrong Size,-2,3231
+1035,7,113,2,537,5,Electronics,Brand7,M,Seller C,West,4,3,5,Courier B,0,Unknown,2,1074
+1036,5,119,2,1156,5,Fashion,Brand5,S,Seller A,East,3,6,4,Courier B,0,Damaged,-2,2312
+1037,9,107,1,1904,0,Beauty,Brand9,L,Seller A,North,7,4,3,Courier B,1,Wrong Size,-1,1904
+1038,7,117,4,360,20,Electronics,Brand7,M,Seller C,West,3,6,6,Courier A,0,Damaged,0,1440
+1039,2,120,2,1803,5,Electronics,Brand2,M,Seller C,West,16,4,2,Courier B,0,Late Delivery,-2,3606
+1040,4,129,4,597,10,Beauty,Brand4,M,Seller A,South,3,4,3,Courier A,1,Unknown,-1,2388
+1041,9,104,2,1500,20,Beauty,Brand9,L,Seller A,South,2,3,5,Courier B,0,Wrong Size,2,3000
+1042,2,130,4,1015,30,Electronics,Brand2,M,Seller C,East,9,5,9,Courier B,0,Wrong Size,4,4060
+1043,10,105,3,1727,0,Fashion,Brand10,M,Seller C,East,19,2,2,Courier B,0,Wrong Size,0,5181
+1044,9,123,4,2119,30,Beauty,Brand9,L,Seller A,West,17,3,8,Courier A,0,Wrong Size,5,8476
+1045,10,107,3,1615,20,Fashion,Brand10,M,Seller C,North,7,3,2,Courier B,1,Wrong Size,-1,4845
+1046,5,113,3,1358,20,Fashion,Brand5,S,Seller A,West,4,5,5,Courier B,0,Damaged,0,4074
+1047,2,115,4,1418,20,Electronics,Brand2,M,Seller C,North,5,2,7,Courier A,0,Unknown,5,5672
+1048,4,111,3,600,30,Beauty,Brand4,M,Seller A,East,11,6,8,Courier B,0,Late Delivery,2,1800
+1049,7,129,1,839,20,Electronics,Brand7,M,Seller C,South,3,6,1,Courier A,0,Late Delivery,-5,839
+1050,8,104,3,2935,30,Home,Brand8,XL,Seller B,South,2,3,6,Courier B,0,Late Delivery,3,8805
+1051,3,113,2,659,20,Home,Brand3,M,Seller B,West,4,2,1,Courier A,0,Late Delivery,-1,1318
+1052,1,107,4,1154,10,Fashion,Brand1,L,Seller B,North,7,3,2,Courier A,0,Damaged,-1,4616
+1053,4,127,1,669,20,Beauty,Brand4,M,Seller A,North,17,4,1,Courier B,1,Not as Expected,-3,669
+1054,2,119,4,1245,30,Electronics,Brand2,M,Seller C,East,3,3,5,Courier A,0,Unknown,2,4980
+1055,8,122,2,2997,5,Home,Brand8,XL,Seller B,North,18,3,9,Courier A,0,Wrong Size,6,5994
+1056,4,128,2,1893,20,Beauty,Brand4,M,Seller A,East,13,6,6,Courier A,0,Not as Expected,0,3786
+1057,2,102,2,2285,5,Electronics,Brand2,M,Seller C,West,8,6,1,Courier A,0,Late Delivery,-5,4570
+1058,6,110,3,2477,10,Fashion,Brand6,XL,Seller A,East,13,6,1,Courier A,0,Not as Expected,-5,7431
+1059,6,113,3,762,0,Fashion,Brand6,XL,Seller A,West,4,4,2,Courier A,0,Unknown,-2,2286
+1060,10,130,4,2685,10,Fashion,Brand10,M,Seller C,East,9,6,9,Courier B,0,Wrong Size,3,10740
+1061,4,125,4,1999,20,Beauty,Brand4,M,Seller A,South,5,2,3,Courier A,0,Wrong Size,1,7996
+1062,6,121,1,2274,5,Fashion,Brand6,XL,Seller A,North,4,5,1,Courier A,0,Unknown,-4,2274
+1063,2,106,1,425,5,Electronics,Brand2,M,Seller C,West,9,2,5,Courier B,1,Unknown,3,425
+1064,10,128,4,997,30,Fashion,Brand10,M,Seller C,East,13,2,7,Courier B,0,Late Delivery,5,3988
+1065,2,128,3,2531,5,Electronics,Brand2,M,Seller C,East,13,6,6,Courier B,0,Wrong Size,0,7593
+1066,10,112,2,1159,30,Fashion,Brand10,M,Seller C,North,4,5,1,Courier B,0,Not as Expected,-4,2318
+1067,4,112,4,1704,0,Beauty,Brand4,M,Seller A,North,4,5,5,Courier B,1,Damaged,0,6816
+1068,8,120,1,652,20,Home,Brand8,XL,Seller B,West,16,5,5,Courier B,0,Damaged,0,652
+1069,7,130,3,1015,30,Electronics,Brand7,M,Seller C,East,9,4,6,Courier B,0,Unknown,2,3045
+1070,9,130,4,858,0,Beauty,Brand9,L,Seller A,East,9,6,3,Courier A,1,Late Delivery,-3,3432
+1071,8,111,4,746,5,Home,Brand8,XL,Seller B,East,11,5,5,Courier A,1,Damaged,0,2984
+1072,5,126,3,1415,5,Fashion,Brand5,S,Seller A,South,12,4,7,Courier B,1,Wrong Size,3,4245
+1073,2,123,4,216,0,Electronics,Brand2,M,Seller C,West,17,3,5,Courier A,0,Unknown,2,864
+1074,5,128,3,1443,5,Fashion,Brand5,S,Seller A,East,13,3,5,Courier A,0,Not as Expected,2,4329
+1075,8,125,2,2405,0,Home,Brand8,XL,Seller B,South,5,4,5,Courier A,0,Unknown,1,4810
+1076,10,107,3,2724,30,Fashion,Brand10,M,Seller C,North,7,4,3,Courier B,1,Not as Expected,-1,8172
+1077,9,130,3,1269,30,Beauty,Brand9,L,Seller A,East,9,6,1,Courier B,0,Unknown,-5,3807
+1078,9,101,3,2765,0,Beauty,Brand9,L,Seller A,West,17,6,5,Courier A,0,Unknown,-1,8295
+1079,1,101,4,2346,30,Fashion,Brand1,L,Seller B,West,17,3,9,Courier B,0,Unknown,6,9384
+1080,9,125,4,1968,30,Beauty,Brand9,L,Seller A,South,5,5,1,Courier A,1,Not as Expected,-4,7872
+1081,7,127,3,1260,30,Electronics,Brand7,M,Seller C,North,17,3,3,Courier A,0,Not as Expected,0,3780
+1082,9,130,4,2527,10,Beauty,Brand9,L,Seller A,East,9,5,4,Courier A,0,Unknown,-1,10108
+1083,8,125,1,2744,20,Home,Brand8,XL,Seller B,South,5,5,1,Courier A,0,Damaged,-4,2744
+1084,1,120,1,501,5,Fashion,Brand1,L,Seller B,West,16,6,1,Courier B,0,Late Delivery,-5,501
+1085,8,113,4,380,10,Home,Brand8,XL,Seller B,West,4,2,8,Courier B,0,Late Delivery,6,1520
+1086,8,109,4,806,30,Home,Brand8,XL,Seller B,North,18,2,2,Courier B,0,Late Delivery,0,3224
+1087,3,103,3,899,0,Home,Brand3,M,Seller B,West,10,4,8,Courier A,0,Not as Expected,4,2697
+1088,1,107,2,1192,30,Fashion,Brand1,L,Seller B,North,7,6,7,Courier B,0,Not as Expected,1,2384
+1089,8,106,4,1339,20,Home,Brand8,XL,Seller B,West,9,5,2,Courier A,0,Damaged,-3,5356
+1090,3,108,1,390,30,Home,Brand3,M,Seller B,North,4,2,6,Courier B,0,Late Delivery,4,390
+1091,3,127,3,2500,0,Home,Brand3,M,Seller B,North,17,5,6,Courier A,0,Late Delivery,1,7500
+1092,1,109,4,1180,20,Fashion,Brand1,L,Seller B,North,18,2,3,Courier A,0,Unknown,1,4720
+1093,5,130,1,2206,30,Fashion,Brand5,S,Seller A,East,9,2,2,Courier A,0,Not as Expected,0,2206
+1094,10,105,1,1384,20,Fashion,Brand10,M,Seller C,East,19,2,1,Courier B,0,Late Delivery,-1,1384
+1095,7,101,2,327,5,Electronics,Brand7,M,Seller C,West,17,6,6,Courier B,0,Damaged,0,654
+1096,10,119,3,2265,5,Fashion,Brand10,M,Seller C,East,3,3,5,Courier B,0,Damaged,2,6795
+1097,9,110,3,2016,30,Beauty,Brand9,L,Seller A,East,13,5,9,Courier B,1,Late Delivery,4,6048
+1098,7,112,2,1958,20,Electronics,Brand7,M,Seller C,North,4,6,1,Courier A,0,Not as Expected,-5,3916
+1099,9,124,2,2813,0,Beauty,Brand9,L,Seller A,East,7,6,7,Courier B,1,Damaged,1,5626
+1100,8,115,3,769,30,Home,Brand8,XL,Seller B,North,5,6,5,Courier B,0,Unknown,-1,2307
